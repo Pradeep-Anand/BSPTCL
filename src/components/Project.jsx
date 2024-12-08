@@ -5,7 +5,7 @@ function Project() {
       <div class="card-group m-5 mb-0">
         <div class="card ml-8 my-20 mb-0">
           <img
-            src="src/assets/smart-contract.gif"
+            src="/smart-contract.gif"
             class="card-img-top size-44 self-center"
             alt="..."
           />
@@ -17,7 +17,7 @@ function Project() {
         </div>
         <div class="card ml-3 my-20">
           <img
-            src="src/assets/last-will.gif"
+            src="/last-will.gif"
             class="card-img-top size-44 self-center"
             alt="..."
           />
@@ -29,7 +29,7 @@ function Project() {
         </div>
         <div class="card ml-3 my-20 mr-10">
           <img
-            src="src/assets/inbox.gif"
+            src="/inbox.gif"
             class="card-img-top size-44 self-center"
             alt="..."
           />
@@ -40,7 +40,7 @@ function Project() {
           </div>
         </div>
         {/* <div class="card mr-20 my-20">
-    <img src="src/assets/procurement.png" class="card-img-top size-44 self-center" alt="..."/>
+    <img src="/procurement.png" class="card-img-top size-44 self-center" alt="..."/>
     <div class="card-body">
       <h3 class="card-title text-center font-bold text-2xl">e-Procurement</h3>
     </div>

@@ -10,7 +10,7 @@ function Header() {
           <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
             <img
               class="logo size-28"
-              src="/src/assets/logo.jpg"
+              src="/logo.jpg"
               alt="BSPTCL Logo"
             ></img>
             <div>

@@ -31,21 +31,21 @@ function Gallery() {
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img
-              src="src/assets/6.jpeg"
+              src="/6.jpeg"
               class="d-block w-100"
               alt="..."
             />
           </div>
           <div class="carousel-item">
             <img
-              src="src/assets/7.jpeg"
+              src="/7.jpeg"
               class="d-block w-100"
               alt="..."
             />
           </div>
           <div class="carousel-item">
             <img
-              src="src/assets/8.jpeg"
+              src="/8.jpeg"
               class="d-block w-100"
               alt="..."
             />

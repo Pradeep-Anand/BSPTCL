@@ -19,7 +19,7 @@ function HeadMember() {
         <div class="col">
           <div class="head-img card" id="bijendra">
             <img
-              src="/assets/head/brijendra-yadav.jpg"
+              src="/brijendra.jpg"
               class="card-img-top size-52"
               alt="..."
             />
@@ -32,7 +32,7 @@ function HeadMember() {
         <div class="col">
           <div class="head-img card" id="sanjeev">
             <img
-              src="/src/assets/head/sanjeev-hans.jpg"
+              src="/sanjeev-hans.jpg"
               class="card-img-top size-52"
               alt="..."
             />
@@ -45,7 +45,7 @@ function HeadMember() {
         <div class="col">
           <div class="head-img card" id="aditya">
             <img
-              src="/src/assets/head/aditya-prakash.jpg"
+              src="/aditya-prakash.jpg"
               class="card-img-top size-52"
               alt="..."
             />

@@ -4,7 +4,7 @@ function Magazine() {
     <div class="inline-block" >
       <div class="card inline-block">
         <img
-          src="src/assets/urjasvini.png"
+          src="/urjasvini.png"
           class="card-img-top size-52"
           alt="..."
         />

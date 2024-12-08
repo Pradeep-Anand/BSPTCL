@@ -8,19 +8,19 @@ function Slideshow() {
     >
       <div class="carousel-inner">
         <div class="carousel-item active ">
-          <img src="src/assets/1.jpeg" class="d-block " alt="..." />
+          <img src="/1.jpeg" class="d-block " alt="..." />
         </div>
         <div class="carousel-item">
-          <img src="src/assets/2.jpeg" class="d-block " alt="..." />
+          <img src="/2.jpeg" class="d-block " alt="..." />
         </div>
         <div class="carousel-item">
-          <img src="src/assets/3.jpeg" class="d-block " alt="..." />
+          <img src="/3.jpeg" class="d-block " alt="..." />
         </div>
         <div class="carousel-item">
-          <img src="src/assets/4.jpeg" class="d-block " alt="..." />
+          <img src="/4.jpeg" class="d-block " alt="..." />
         </div>
         <div class="carousel-item">
-          <img src="src/assets/5.jpeg" class="d-block " alt="..." />
+          <img src="/5.jpeg" class="d-block " alt="..." />
         </div>
       </div>
       <button

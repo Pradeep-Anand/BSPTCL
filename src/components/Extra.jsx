@@ -7,7 +7,7 @@ function Extra() {
       <div class="col nightowl-light" >
           <div class="card nightowl-light" >
             <img
-              src="src/assets/form.gif"
+              src="/form.gif"
               class="card-img-top size-32 self-center nightowl-light"
               alt="..."
             />
@@ -24,7 +24,7 @@ function Extra() {
       <div class="col">
           <div class="card">
             <img
-              src="src/assets/information.gif"
+              src="/information.gif"
               class="card-img-top size-32 self-center nightowl-light"
               alt="..."
             />
@@ -41,7 +41,7 @@ function Extra() {
         <div class="col">
           <div class="card">
             <img
-              src="src/assets/assets.gif"
+              src="/assets.gif"
               class="card-img-top size-32 self-center nightowl-light"
               alt="..."
             />
@@ -58,7 +58,7 @@ function Extra() {
         <div class="col pb-10">
           <div class="card">
             <img
-              src="src/assets/download.gif"
+              src="/download.gif"
               class="card-img-top size-32 self-center"
               alt="..."
             />

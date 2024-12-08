@@ -7,7 +7,7 @@ function ProjectTender() {
       <div class="col">
           <div class="card">
             <img
-              src="src/assets/smart-contract.gif"
+              src="/smart-contract.gif"
               class="card-img-top size-44 self-center"
               alt="..."
             />
@@ -24,7 +24,7 @@ function ProjectTender() {
       <div class="col">
           <div class="card">
             <img
-              src="src/assets/last-will.gif"
+              src="/last-will.gif"
               class="card-img-top size-44 self-center"
               alt="..."
             />
@@ -40,7 +40,7 @@ function ProjectTender() {
         <div class="col">
           <div class="card">
             <img
-              src="src/assets/inbox.gif"
+              src="/inbox.gif"
               class="card-img-top size-44 self-center"
               alt="..."
             />
@@ -56,7 +56,7 @@ function ProjectTender() {
         <div class="col pb-2 ">
           <div class="card ">
             <img
-              src="src/assets/procurement.gif"
+              src="/procurement.gif"
               class="card-img-top size-44 self-center"
               alt="..."
             />
@@ -74,7 +74,7 @@ function ProjectTender() {
       <div class="col">
           <div class="card">
             <img
-              src="src/assets/project.gif"
+              src="/project.gif"
               class="card-img-top size-44 self-center"
               alt="..."
             />
@@ -90,7 +90,7 @@ function ProjectTender() {
         <div class="col">
           <div class="card">
             <img
-              src="src/assets/consultation.gif"
+              src="/consultation.gif"
               class="card-img-top size-44 self-center"
               alt="..."
             />
@@ -106,7 +106,7 @@ function ProjectTender() {
         <div class="col pb-4">
           <div class="card">
             <img
-              src="src/assets/route.gif"
+              src="/route.gif"
               class="card-img-top size-44 self-center"
               alt="..."
             />

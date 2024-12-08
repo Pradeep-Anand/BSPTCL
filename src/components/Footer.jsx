@@ -9,7 +9,7 @@ function Footer() {
               href="/"
               class="d-flex align-items-center mb-3 link-body-emphasis text-decoration-none"
             >
-              <img src="src/assets/logo.jpg" class=" size-20" />
+              <img src="/logo.jpg" class=" size-20" />
             </a>
             <a href="https://play.google.com/store/apps/details?id=bih.nic.in.app.transmission">
             <button type="button" class="btn btn-dark bg-slate-50">
