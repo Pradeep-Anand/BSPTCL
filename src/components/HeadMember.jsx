@@ -6,7 +6,7 @@ function HeadMember() {
         <div class="col">
           <div class="head-img card" id="nitish">
             <img
-              src="/nitish.jpg"
+              src="/public/nitish.jpg"
               class="card-img-top size-52"
               alt="..."
             />
