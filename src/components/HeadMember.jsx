@@ -19,7 +19,7 @@ function HeadMember() {
         <div class="col">
           <div class="head-img card" id="bijendra">
             <img
-              src="/src/assets/head/brijendra-yadav.jpg"
+              src="/assets/head/brijendra-yadav.jpg"
               class="card-img-top size-52"
               alt="..."
             />
