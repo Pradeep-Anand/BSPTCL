@@ -6,12 +6,12 @@ function HeadMember() {
         <div class="col">
           <div class="head-img card" id="nitish">
             <img
-              src="/nitish-kumar"
+              src="/nitish-kumar.jpg"
               class="card-img-top size-52"
               alt="..."
             />
             <div class="card-body">
-              <h5 class="card-title font-bold">Nitish Kumar</h5>
+              <h5 class="card-title font-bold">Shri Nitish Kumar</h5>
               <p class="card-text">Hon'ble Chief Minister, Bihar</p>
             </div>
           </div>
